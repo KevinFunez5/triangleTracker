@@ -1,0 +1,16 @@
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\triangleTracker.csprojAssemblyReference.cache
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\triangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\triangleTracker.AssemblyInfoInputs.cache
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\triangleTracker.AssemblyInfo.cs
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\triangleTracker.csproj.CoreCompileInputs.cache
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\bin\Debug\net5.0\triangleTracker.deps.json
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\bin\Debug\net5.0\triangleTracker.dll
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\bin\Debug\net5.0\ref\triangleTracker.dll
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\bin\Debug\net5.0\triangleTracker.pdb
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\triangleTracker.dll
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\ref\triangleTracker.dll
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\triangleTracker.pdb
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\bin\Debug\net5.0\triangleTracker.exe
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\bin\Debug\net5.0\triangleTracker.runtimeconfig.json
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\bin\Debug\net5.0\triangleTracker.runtimeconfig.dev.json
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker\obj\Debug\net5.0\triangleTracker.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker.Tests\obj\Debug\net5.0\triangleTracker.Tests.csprojAssemblyReference.cache
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker.Tests\obj\Debug\net5.0\triangleTracker.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker.Tests\obj\Debug\net5.0\triangleTracker.Tests.AssemblyInfoInputs.cache
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker.Tests\obj\Debug\net5.0\triangleTracker.Tests.AssemblyInfo.cs
+C:\Users\kevin\week-one-csharp\triangle-tracker\triangleTracker.Tests\obj\Debug\net5.0\triangleTracker.Tests.csproj.CoreCompileInputs.cache
