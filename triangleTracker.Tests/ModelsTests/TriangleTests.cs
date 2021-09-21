@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using triangleTracker;
+using TriangleTracker;
 //using Triangle;
 
 namespace triangleTracker.Tests
@@ -8,12 +8,21 @@ namespace triangleTracker.Tests
   public class TriangleTests
   {
     [TestMethod]
-
-    public void TriangleIsEquallateral()
+    public void TriangleType_IsEquilateral_Equilateral()
     {
-      Triangle testIfEqual = new Triangle();
-      Assert.AreEqual(true, testIfEqual.Main(1,1,1));
-      //Assert.AreEqual(true, CODE TO TEST);
+      Assert.AreEqual("equilateral", Triangle.TriangleType(1,1,1));
+    }
+
+    [TestMethod]
+    public void TriangleType_IsIsosceles_Isosceles()
+    {
+      Assert.AreEqual("isosceles", Triangle.TriangleType(1,1,2));
+    }
+
+    [TestMethod]
+    public void TriangleType_IsScalene_Scalene()
+    {
+      Assert.AreEqual("scalene", Triangle.TriangleType(1,2,3));
     }
   }
 }
